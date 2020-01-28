@@ -1,0 +1,6 @@
+framework module AppboyKitFramework_iOS {
+  umbrella header "AppboyKitFramework_iOS.h"
+
+  export *
+  module * { export * }
+}

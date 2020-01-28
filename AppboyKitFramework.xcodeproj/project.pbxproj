@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CB2297DB23DF6DBF00DB1261 /* AppboyKitFramework_iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB2297D123DF6DBF00DB1261 /* AppboyKitFramework_iOS.framework */; };
-		CB2297E023DF6DBF00DB1261 /* AppboyKitFrameworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB2297DF23DF6DBF00DB1261 /* AppboyKitFrameworkTests.swift */; };
 		CB2297E223DF6DBF00DB1261 /* AppboyKitFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = CB2297D423DF6DBF00DB1261 /* AppboyKitFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF7F923DF6E4600A931D2 /* SDWebImage in Frameworks */ = {isa = PBXBuildFile; productRef = CB5EF7F823DF6E4600A931D2 /* SDWebImage */; };
 		CB5EF7FB23DF6E4600A931D2 /* SDWebImageMapKit in Frameworks */ = {isa = PBXBuildFile; productRef = CB5EF7FA23DF6E4600A931D2 /* SDWebImageMapKit */; };
@@ -311,25 +309,14 @@
 		CB5EFA1B23DF7C0200A931D2 /* AppboyContentCardsLocalizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF86B23DF6E7800A931D2 /* AppboyContentCardsLocalizable.strings */; };
 		CB5EFA1C23DF7C0200A931D2 /* appboy_cc_noimage_lrg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF87E23DF6E7800A931D2 /* appboy_cc_noimage_lrg@2x.png */; };
 		CB5EFA1D23DF7C0200A931D2 /* ABKInAppMessageSlideupViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF84423DF6E7800A931D2 /* ABKInAppMessageSlideupViewController.xib */; };
+		CBD1FAC023E0DD530085CE58 /* AppboyKitFramework_iOS.h in Headers */ = {isa = PBXBuildFile; fileRef = CBD1FABF23E0DD530085CE58 /* AppboyKitFramework_iOS.h */; };
+		CBD1FAC223E0DD730085CE58 /* AppboyKitFramework_Sim.h in Headers */ = {isa = PBXBuildFile; fileRef = CBD1FAC123E0DD730085CE58 /* AppboyKitFramework_Sim.h */; };
 /* End PBXBuildFile section */
-
-/* Begin PBXContainerItemProxy section */
-		CB2297DC23DF6DBF00DB1261 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = CB2297C823DF6DBF00DB1261 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = CB2297D023DF6DBF00DB1261;
-			remoteInfo = AppboyKitFramework;
-		};
-/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		CB2297D123DF6DBF00DB1261 /* AppboyKitFramework_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AppboyKitFramework_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB2297D423DF6DBF00DB1261 /* AppboyKitFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppboyKitFramework.h; sourceTree = "<group>"; };
 		CB2297D523DF6DBF00DB1261 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CB2297DA23DF6DBF00DB1261 /* AppboyKitFrameworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppboyKitFrameworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		CB2297DF23DF6DBF00DB1261 /* AppboyKitFrameworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppboyKitFrameworkTests.swift; sourceTree = "<group>"; };
-		CB2297E123DF6DBF00DB1261 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB5EF80023DF6E7800A931D2 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/AppboyFeedLocalizable.strings; sourceTree = "<group>"; };
 		CB5EF80123DF6E7800A931D2 /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/AppboyFeedLocalizable.strings; sourceTree = "<group>"; };
 		CB5EF80223DF6E7800A931D2 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/AppboyFeedLocalizable.strings; sourceTree = "<group>"; };
@@ -550,6 +537,8 @@
 		CB5EF97D23DF700000A931D2 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/StoreKit.framework; sourceTree = DEVELOPER_DIR; };
 		CB5EFA2123DF7C0200A931D2 /* AppboyKitFramework_Sim.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AppboyKitFramework_Sim.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB5EFA2223DF7C0300A931D2 /* AppboyKitFramework copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "AppboyKitFramework copy-Info.plist"; path = "/Users/dutchere1/Work/Appboy/appboy-ios-sdk/AppboyKitFramework copy-Info.plist"; sourceTree = "<absolute>"; };
+		CBD1FABF23E0DD530085CE58 /* AppboyKitFramework_iOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppboyKitFramework_iOS.h; sourceTree = "<group>"; };
+		CBD1FAC123E0DD730085CE58 /* AppboyKitFramework_Sim.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppboyKitFramework_Sim.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -571,14 +560,6 @@
 				CB5EF96523DF6E7800A931D2 /* libAppboyKitLibrary.a in Frameworks */,
 				CB5EF7FB23DF6E4600A931D2 /* SDWebImageMapKit in Frameworks */,
 				CB5EF7F923DF6E4600A931D2 /* SDWebImage in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		CB2297D723DF6DBF00DB1261 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				CB2297DB23DF6DBF00DB1261 /* AppboyKitFramework_iOS.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -610,7 +591,6 @@
 			isa = PBXGroup;
 			children = (
 				CB2297D323DF6DBF00DB1261 /* AppboyKitFramework */,
-				CB2297DE23DF6DBF00DB1261 /* AppboyKitFrameworkTests */,
 				CB2297D223DF6DBF00DB1261 /* Products */,
 				CB5EF96823DF6FAB00A931D2 /* Frameworks */,
 				CB5EFA2223DF7C0300A931D2 /* AppboyKitFramework copy-Info.plist */,
@@ -621,7 +601,6 @@
 			isa = PBXGroup;
 			children = (
 				CB2297D123DF6DBF00DB1261 /* AppboyKitFramework_iOS.framework */,
-				CB2297DA23DF6DBF00DB1261 /* AppboyKitFrameworkTests.xctest */,
 				CB5EFA2123DF7C0200A931D2 /* AppboyKitFramework_Sim.framework */,
 			);
 			name = Products;
@@ -634,17 +613,10 @@
 				CB5EF7FC23DF6E7800A931D2 /* AppboyUI */,
 				CB2297D423DF6DBF00DB1261 /* AppboyKitFramework.h */,
 				CB2297D523DF6DBF00DB1261 /* Info.plist */,
+				CBD1FABF23E0DD530085CE58 /* AppboyKitFramework_iOS.h */,
+				CBD1FAC123E0DD730085CE58 /* AppboyKitFramework_Sim.h */,
 			);
 			path = AppboyKitFramework;
-			sourceTree = "<group>";
-		};
-		CB2297DE23DF6DBF00DB1261 /* AppboyKitFrameworkTests */ = {
-			isa = PBXGroup;
-			children = (
-				CB2297DF23DF6DBF00DB1261 /* AppboyKitFrameworkTests.swift */,
-				CB2297E123DF6DBF00DB1261 /* Info.plist */,
-			);
-			path = AppboyKitFrameworkTests;
 			sourceTree = "<group>";
 		};
 		CB5EF7FC23DF6E7800A931D2 /* AppboyUI */ = {
@@ -959,6 +931,7 @@
 				CB5EF91423DF6E7800A931D2 /* ABKInAppMessageSlideupViewController.h in Headers */,
 				CB5EF96223DF6E7800A931D2 /* ABKInAppMessageModal.h in Headers */,
 				CB5EF95B23DF6E7800A931D2 /* ABKURLDelegate.h in Headers */,
+				CBD1FAC023E0DD530085CE58 /* AppboyKitFramework_iOS.h in Headers */,
 				CB5EF92623DF6E7800A931D2 /* ABKBaseContentCardCell.h in Headers */,
 				CB5EF95423DF6E7800A931D2 /* ABKFacebookUser.h in Headers */,
 				CB5EF95C23DF6E7800A931D2 /* ABKIDFADelegate.h in Headers */,
@@ -1048,6 +1021,7 @@
 				CB5EF98F23DF7C0200A931D2 /* ABKTwitterUser.h in Headers */,
 				CB5EF99023DF7C0200A931D2 /* ABKNFBaseCardCell.h in Headers */,
 				CB5EF99123DF7C0200A931D2 /* ABKInAppMessageHTMLJSInterface.h in Headers */,
+				CBD1FAC223E0DD730085CE58 /* AppboyKitFramework_Sim.h in Headers */,
 				CB5EF99223DF7C0200A931D2 /* AppboyNewsFeed.h in Headers */,
 				CB5EF99323DF7C0200A931D2 /* ABKContentCardsTableViewController.h in Headers */,
 				CB5EF99423DF7C0200A931D2 /* ABKCaptionedImageCard.h in Headers */,
@@ -1138,24 +1112,6 @@
 			productReference = CB2297D123DF6DBF00DB1261 /* AppboyKitFramework_iOS.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		CB2297D923DF6DBF00DB1261 /* AppboyKitFrameworkTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = CB2297E823DF6DBF00DB1261 /* Build configuration list for PBXNativeTarget "AppboyKitFrameworkTests" */;
-			buildPhases = (
-				CB2297D623DF6DBF00DB1261 /* Sources */,
-				CB2297D723DF6DBF00DB1261 /* Frameworks */,
-				CB2297D823DF6DBF00DB1261 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				CB2297DD23DF6DBF00DB1261 /* PBXTargetDependency */,
-			);
-			name = AppboyKitFrameworkTests;
-			productName = AppboyKitFrameworkTests;
-			productReference = CB2297DA23DF6DBF00DB1261 /* AppboyKitFrameworkTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 		CB5EF97F23DF7C0200A931D2 /* AppboyKitFramework_Sim */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = CB5EFA1E23DF7C0200A931D2 /* Build configuration list for PBXNativeTarget "AppboyKitFramework_Sim" */;
@@ -1189,9 +1145,6 @@
 				ORGANIZATIONNAME = "Evan Dutcher";
 				TargetAttributes = {
 					CB2297D023DF6DBF00DB1261 = {
-						CreatedOnToolsVersion = 11.3;
-					};
-					CB2297D923DF6DBF00DB1261 = {
 						CreatedOnToolsVersion = 11.3;
 					};
 				};
@@ -1247,7 +1200,6 @@
 			projectRoot = "";
 			targets = (
 				CB2297D023DF6DBF00DB1261 /* AppboyKitFramework_iOS */,
-				CB2297D923DF6DBF00DB1261 /* AppboyKitFrameworkTests */,
 				CB5EF97F23DF7C0200A931D2 /* AppboyKitFramework_Sim */,
 			);
 		};
@@ -1285,13 +1237,6 @@
 				CB5EF91E23DF6E7800A931D2 /* AppboyContentCardsLocalizable.strings in Resources */,
 				CB5EF92423DF6E7800A931D2 /* appboy_cc_noimage_lrg@2x.png in Resources */,
 				CB5EF8FB23DF6E7800A931D2 /* ABKInAppMessageSlideupViewController.xib in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		CB2297D823DF6DBF00DB1261 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1373,14 +1318,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CB2297D623DF6DBF00DB1261 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				CB2297E023DF6DBF00DB1261 /* AppboyKitFrameworkTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		CB5EF9D023DF7C0200A931D2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1423,14 +1360,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		CB2297DD23DF6DBF00DB1261 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = CB2297D023DF6DBF00DB1261 /* AppboyKitFramework_iOS */;
-			targetProxy = CB2297DC23DF6DBF00DB1261 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		CB5EF7FF23DF6E7800A931D2 /* AppboyFeedLocalizable.strings */ = {
@@ -1557,6 +1486,7 @@
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
@@ -1620,6 +1550,7 @@
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
@@ -1663,11 +1594,12 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/AppboyKit",
 				);
-				OTHER_LDFLAGS = "-objc";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.urbn.AppboyKit.AppboyKitFramework;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = iphoneos;
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -1694,47 +1626,12 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/AppboyKit",
 				);
-				OTHER_LDFLAGS = "-objc";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.urbn.AppboyKit.AppboyKitFramework;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = iphoneos;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
-		CB2297E923DF6DBF00DB1261 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6438N9QD27;
-				INFOPLIST_FILE = AppboyKitFrameworkTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.urbn.AppboyKit.AppboyKitFrameworkTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		CB2297EA23DF6DBF00DB1261 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6438N9QD27;
-				INFOPLIST_FILE = AppboyKitFrameworkTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.urbn.AppboyKit.AppboyKitFrameworkTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -1743,6 +1640,7 @@
 		CB5EFA1F23DF7C0200A931D2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 6438N9QD27;
@@ -1773,6 +1671,7 @@
 		CB5EFA2023DF7C0200A931D2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 6438N9QD27;
@@ -1817,15 +1716,6 @@
 			buildConfigurations = (
 				CB2297E623DF6DBF00DB1261 /* Debug */,
 				CB2297E723DF6DBF00DB1261 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		CB2297E823DF6DBF00DB1261 /* Build configuration list for PBXNativeTarget "AppboyKitFrameworkTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				CB2297E923DF6DBF00DB1261 /* Debug */,
-				CB2297EA23DF6DBF00DB1261 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

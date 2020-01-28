@@ -16,4 +16,7 @@ FOUNDATION_EXPORT const unsigned char AppboyKitFrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <AppboyKitFramework/PublicHeader.h>
 
-
+#import <AppboyKitFramework/"AppboyKit.h">
+#import <AppboyKitFramework/"AppboyNewsFeed.h">
+#import <AppboyKitFramework/"AppboyInAppMessage.h">
+#import <AppboyKitFramework/"AppboyContentCards.h">
