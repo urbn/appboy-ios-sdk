@@ -1,6 +1,6 @@
 #import "ABKNFBaseCardCell.h"
 #import "ABKClassicCard.h"
-#import <SDWebImage/SDAnimatedImageView+WebCache.h>
+@import SDWebImage;
 
 @interface ABKNFClassicCardCell : ABKNFBaseCardCell
 

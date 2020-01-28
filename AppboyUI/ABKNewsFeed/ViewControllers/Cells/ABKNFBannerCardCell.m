@@ -1,5 +1,5 @@
 #import "ABKNFBannerCardCell.h"
-#import <SDWebImage/UIImageView+WebCache.h>
+@import SDWebImage;
 
 @implementation ABKNFBannerCardCell
 

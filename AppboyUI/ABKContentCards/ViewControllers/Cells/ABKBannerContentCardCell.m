@@ -1,6 +1,6 @@
 #import "ABKBannerContentCardCell.h"
 #import "ABKBannerCard.h"
-#import <SDWebImage/UIImageView+WebCache.h>
+@import SDWebImage;
 
 static const CGFloat ImageMinResizingMultiplier = 0.1f;
 

@@ -1,5 +1,5 @@
 #import "ABKCaptionedImageContentCardCell.h"
-#import <SDWebImage/UIImageView+WebCache.h>
+@import SDWebImage;
 
 static const CGFloat ImageMinResizingDifference = 5e-1;
 

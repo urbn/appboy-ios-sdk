@@ -1,6 +1,6 @@
 #import "ABKBaseContentCardCell.h"
 #import "ABKCaptionedImageContentCard.h"
-#import <SDWebImage/SDAnimatedImageView+WebCache.h>
+@import SDWebImage;
 
 @interface ABKCaptionedImageContentCardCell : ABKBaseContentCardCell
 

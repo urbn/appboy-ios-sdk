@@ -1,5 +1,5 @@
 #import "ABKNFCaptionedMessageCardCell.h"
-#import <SDWebImage/UIImageView+WebCache.h>
+@import SDWebImage;
 
 @implementation ABKNFCaptionedMessageCardCell
 

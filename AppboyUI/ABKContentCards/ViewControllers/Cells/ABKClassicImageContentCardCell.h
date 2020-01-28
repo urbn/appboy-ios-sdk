@@ -1,5 +1,5 @@
 #import "ABKClassicContentCardCell.h"
-#import <SDWebImage/SDAnimatedImageView+WebCache.h>
+@import SDWebImage;
 
 /*!
  * The ABKClassicContentCard has an optional image property.

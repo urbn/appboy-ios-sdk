@@ -1,9 +1,5 @@
 #import "ABKSDWebImageProxy.h"
-#import <SDWebImage/UIImageView+WebCache.h>
-#import <SDWebImage/UIView+WebCache.h>
-#import <SDWebImage/SDWebImageManager.h>
-#import <SDWebImage/SDImageCache.h>
-#import <SDWebImage/SDWebImagePrefetcher.h>
+@import SDWebImage;
 
 @implementation ABKSDWebImageProxy
 
