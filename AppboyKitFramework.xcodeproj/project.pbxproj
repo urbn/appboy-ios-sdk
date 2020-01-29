@@ -18,19 +18,19 @@
 		CB5EF8E423DF6E7800A931D2 /* img-noimage-lrg.png in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF81123DF6E7800A931D2 /* img-noimage-lrg.png */; };
 		CB5EF8E523DF6E7800A931D2 /* img-noimage-lrg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF81223DF6E7800A931D2 /* img-noimage-lrg@2x.png */; };
 		CB5EF8E623DF6E7800A931D2 /* ABKNewsFeedCardStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF81523DF6E7800A931D2 /* ABKNewsFeedCardStoryboard.storyboard */; };
-		CB5EF8E723DF6E7800A931D2 /* AppboyNewsFeed.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF82C23DF6E7800A931D2 /* AppboyNewsFeed.h */; };
+		CB5EF8E723DF6E7800A931D2 /* AppboyNewsFeed.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF82C23DF6E7800A931D2 /* AppboyNewsFeed.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF8E823DF6E7800A931D2 /* ABKNFClassicCardCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF82F23DF6E7800A931D2 /* ABKNFClassicCardCell.m */; };
-		CB5EF8E923DF6E7800A931D2 /* ABKNFBannerCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83023DF6E7800A931D2 /* ABKNFBannerCardCell.h */; };
-		CB5EF8EA23DF6E7800A931D2 /* ABKNFCaptionedMessageCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83123DF6E7800A931D2 /* ABKNFCaptionedMessageCardCell.h */; };
+		CB5EF8E923DF6E7800A931D2 /* ABKNFBannerCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83023DF6E7800A931D2 /* ABKNFBannerCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF8EA23DF6E7800A931D2 /* ABKNFCaptionedMessageCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83123DF6E7800A931D2 /* ABKNFCaptionedMessageCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF8EB23DF6E7800A931D2 /* ABKNFBaseCardCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF83223DF6E7800A931D2 /* ABKNFBaseCardCell.m */; };
-		CB5EF8EC23DF6E7800A931D2 /* ABKNFClassicCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83323DF6E7800A931D2 /* ABKNFClassicCardCell.h */; };
+		CB5EF8EC23DF6E7800A931D2 /* ABKNFClassicCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83323DF6E7800A931D2 /* ABKNFClassicCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF8ED23DF6E7800A931D2 /* ABKNFBannerCardCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF83423DF6E7800A931D2 /* ABKNFBannerCardCell.m */; };
 		CB5EF8EE23DF6E7800A931D2 /* ABKNFCaptionedMessageCardCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF83523DF6E7800A931D2 /* ABKNFCaptionedMessageCardCell.m */; };
-		CB5EF8EF23DF6E7800A931D2 /* ABKNFBaseCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83623DF6E7800A931D2 /* ABKNFBaseCardCell.h */; };
+		CB5EF8EF23DF6E7800A931D2 /* ABKNFBaseCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83623DF6E7800A931D2 /* ABKNFBaseCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF8F023DF6E7800A931D2 /* ABKNewsFeedTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF83723DF6E7800A931D2 /* ABKNewsFeedTableViewController.m */; };
-		CB5EF8F123DF6E7800A931D2 /* ABKNewsFeedViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83823DF6E7800A931D2 /* ABKNewsFeedViewController.h */; };
-		CB5EF8F223DF6E7800A931D2 /* ABKFeedWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83923DF6E7800A931D2 /* ABKFeedWebViewController.h */; };
-		CB5EF8F323DF6E7800A931D2 /* ABKNewsFeedTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83A23DF6E7800A931D2 /* ABKNewsFeedTableViewController.h */; };
+		CB5EF8F123DF6E7800A931D2 /* ABKNewsFeedViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83823DF6E7800A931D2 /* ABKNewsFeedViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF8F223DF6E7800A931D2 /* ABKFeedWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83923DF6E7800A931D2 /* ABKFeedWebViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF8F323DF6E7800A931D2 /* ABKNewsFeedTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83A23DF6E7800A931D2 /* ABKNewsFeedTableViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF8F423DF6E7800A931D2 /* ABKFeedWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF83B23DF6E7800A931D2 /* ABKFeedWebViewController.m */; };
 		CB5EF8F523DF6E7800A931D2 /* ABKNewsFeedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF83C23DF6E7800A931D2 /* ABKNewsFeedViewController.m */; };
 		CB5EF8F623DF6E7800A931D2 /* ABKInAppMessageWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF83E23DF6E7800A931D2 /* ABKInAppMessageWindow.m */; };
@@ -47,32 +47,32 @@
 		CB5EF90123DF6E7800A931D2 /* ABKInAppMessageModalViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF84A23DF6E7800A931D2 /* ABKInAppMessageModalViewController.xib */; };
 		CB5EF90223DF6E7800A931D2 /* com_appboy_inapp_close_icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF84B23DF6E7800A931D2 /* com_appboy_inapp_close_icon@2x.png */; };
 		CB5EF90323DF6E7800A931D2 /* com_appboy_inapp_close_icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF84C23DF6E7800A931D2 /* com_appboy_inapp_close_icon@3x.png */; };
-		CB5EF90423DF6E7800A931D2 /* AppboyInAppMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF84D23DF6E7800A931D2 /* AppboyInAppMessage.h */; };
+		CB5EF90423DF6E7800A931D2 /* AppboyInAppMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF84D23DF6E7800A931D2 /* AppboyInAppMessage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF90523DF6E7800A931D2 /* ABKInAppMessageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF84F23DF6E7800A931D2 /* ABKInAppMessageViewController.m */; };
-		CB5EF90623DF6E7800A931D2 /* ABKInAppMessageFullViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85023DF6E7800A931D2 /* ABKInAppMessageFullViewController.h */; };
+		CB5EF90623DF6E7800A931D2 /* ABKInAppMessageFullViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85023DF6E7800A931D2 /* ABKInAppMessageFullViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF90723DF6E7800A931D2 /* ABKInAppMessageModalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF85123DF6E7800A931D2 /* ABKInAppMessageModalViewController.m */; };
-		CB5EF90823DF6E7800A931D2 /* ABKInAppMessageWindowController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85223DF6E7800A931D2 /* ABKInAppMessageWindowController.h */; };
-		CB5EF90923DF6E7800A931D2 /* ABKInAppMessageHTMLFullViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85323DF6E7800A931D2 /* ABKInAppMessageHTMLFullViewController.h */; };
-		CB5EF90A23DF6E7800A931D2 /* ABKInAppMessageImmersiveViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85423DF6E7800A931D2 /* ABKInAppMessageImmersiveViewController.h */; };
+		CB5EF90823DF6E7800A931D2 /* ABKInAppMessageWindowController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85223DF6E7800A931D2 /* ABKInAppMessageWindowController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF90923DF6E7800A931D2 /* ABKInAppMessageHTMLFullViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85323DF6E7800A931D2 /* ABKInAppMessageHTMLFullViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF90A23DF6E7800A931D2 /* ABKInAppMessageImmersiveViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85423DF6E7800A931D2 /* ABKInAppMessageImmersiveViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF90B23DF6E7800A931D2 /* ABKInAppMessageSlideupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF85523DF6E7800A931D2 /* ABKInAppMessageSlideupViewController.m */; };
-		CB5EF90C23DF6E7800A931D2 /* ABKInAppMessageHTMLViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85623DF6E7800A931D2 /* ABKInAppMessageHTMLViewController.h */; };
-		CB5EF90D23DF6E7800A931D2 /* ABKInAppMessageModalViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85723DF6E7800A931D2 /* ABKInAppMessageModalViewController.h */; };
+		CB5EF90C23DF6E7800A931D2 /* ABKInAppMessageHTMLViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85623DF6E7800A931D2 /* ABKInAppMessageHTMLViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF90D23DF6E7800A931D2 /* ABKInAppMessageModalViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85723DF6E7800A931D2 /* ABKInAppMessageModalViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF90E23DF6E7800A931D2 /* ABKInAppMessageFullViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF85823DF6E7800A931D2 /* ABKInAppMessageFullViewController.m */; };
-		CB5EF90F23DF6E7800A931D2 /* ABKInAppMessageViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85923DF6E7800A931D2 /* ABKInAppMessageViewController.h */; };
+		CB5EF90F23DF6E7800A931D2 /* ABKInAppMessageViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85923DF6E7800A931D2 /* ABKInAppMessageViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF91023DF6E7800A931D2 /* ABKInAppMessageImmersiveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF85A23DF6E7800A931D2 /* ABKInAppMessageImmersiveViewController.m */; };
 		CB5EF91123DF6E7800A931D2 /* ABKInAppMessageWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF85B23DF6E7800A931D2 /* ABKInAppMessageWindowController.m */; };
 		CB5EF91223DF6E7800A931D2 /* ABKInAppMessageHTMLFullViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF85C23DF6E7800A931D2 /* ABKInAppMessageHTMLFullViewController.m */; };
 		CB5EF91323DF6E7800A931D2 /* ABKInAppMessageHTMLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF85D23DF6E7800A931D2 /* ABKInAppMessageHTMLViewController.m */; };
-		CB5EF91423DF6E7800A931D2 /* ABKInAppMessageSlideupViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85E23DF6E7800A931D2 /* ABKInAppMessageSlideupViewController.h */; };
-		CB5EF91523DF6E7800A931D2 /* ABKInAppMessageWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85F23DF6E7800A931D2 /* ABKInAppMessageWindow.h */; };
-		CB5EF91623DF6E7800A931D2 /* ABKInAppMessageView.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86023DF6E7800A931D2 /* ABKInAppMessageView.h */; };
-		CB5EF91723DF6E7800A931D2 /* ABKInAppMessageUIButton.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86123DF6E7800A931D2 /* ABKInAppMessageUIButton.h */; };
-		CB5EF91823DF6E7800A931D2 /* ABKInAppMessageUIDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86223DF6E7800A931D2 /* ABKInAppMessageUIDelegate.h */; };
-		CB5EF91923DF6E7800A931D2 /* ABKInAppMessageUIController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86323DF6E7800A931D2 /* ABKInAppMessageUIController.h */; };
+		CB5EF91423DF6E7800A931D2 /* ABKInAppMessageSlideupViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85E23DF6E7800A931D2 /* ABKInAppMessageSlideupViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF91523DF6E7800A931D2 /* ABKInAppMessageWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85F23DF6E7800A931D2 /* ABKInAppMessageWindow.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF91623DF6E7800A931D2 /* ABKInAppMessageView.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86023DF6E7800A931D2 /* ABKInAppMessageView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF91723DF6E7800A931D2 /* ABKInAppMessageUIButton.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86123DF6E7800A931D2 /* ABKInAppMessageUIButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF91823DF6E7800A931D2 /* ABKInAppMessageUIDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86223DF6E7800A931D2 /* ABKInAppMessageUIDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF91923DF6E7800A931D2 /* ABKInAppMessageUIController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86323DF6E7800A931D2 /* ABKInAppMessageUIController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF91A23DF6E7800A931D2 /* ABKUIUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF86523DF6E7800A931D2 /* ABKUIUtils.m */; };
 		CB5EF91B23DF6E7800A931D2 /* ABKUIURLUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF86623DF6E7800A931D2 /* ABKUIURLUtils.m */; };
-		CB5EF91C23DF6E7800A931D2 /* ABKUIUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86723DF6E7800A931D2 /* ABKUIUtils.h */; };
-		CB5EF91D23DF6E7800A931D2 /* ABKUIURLUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86823DF6E7800A931D2 /* ABKUIURLUtils.h */; };
+		CB5EF91C23DF6E7800A931D2 /* ABKUIUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86723DF6E7800A931D2 /* ABKUIUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF91D23DF6E7800A931D2 /* ABKUIURLUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86823DF6E7800A931D2 /* ABKUIURLUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF91E23DF6E7800A931D2 /* AppboyContentCardsLocalizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF86B23DF6E7800A931D2 /* AppboyContentCardsLocalizable.strings */; };
 		CB5EF91F23DF6E7800A931D2 /* ABKContentCardsStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF87423DF6E7800A931D2 /* ABKContentCardsStoryboard.storyboard */; };
 		CB5EF92023DF6E7800A931D2 /* appboy_cc_icon_pinned.png in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF87A23DF6E7800A931D2 /* appboy_cc_icon_pinned.png */; };
@@ -80,12 +80,12 @@
 		CB5EF92223DF6E7800A931D2 /* appboy_cc_icon_pinned@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF87C23DF6E7800A931D2 /* appboy_cc_icon_pinned@2x.png */; };
 		CB5EF92323DF6E7800A931D2 /* appboy_cc_icon_pinned@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF87D23DF6E7800A931D2 /* appboy_cc_icon_pinned@3x.png */; };
 		CB5EF92423DF6E7800A931D2 /* appboy_cc_noimage_lrg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF87E23DF6E7800A931D2 /* appboy_cc_noimage_lrg@2x.png */; };
-		CB5EF92523DF6E7800A931D2 /* ABKContentCardsViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89823DF6E7800A931D2 /* ABKContentCardsViewController.h */; };
-		CB5EF92623DF6E7800A931D2 /* ABKBaseContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89A23DF6E7800A931D2 /* ABKBaseContentCardCell.h */; };
-		CB5EF92723DF6E7800A931D2 /* ABKClassicContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89B23DF6E7800A931D2 /* ABKClassicContentCardCell.h */; };
-		CB5EF92823DF6E7800A931D2 /* ABKClassicImageContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89C23DF6E7800A931D2 /* ABKClassicImageContentCardCell.h */; };
-		CB5EF92923DF6E7800A931D2 /* ABKBannerContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89D23DF6E7800A931D2 /* ABKBannerContentCardCell.h */; };
-		CB5EF92A23DF6E7800A931D2 /* ABKCaptionedImageContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89E23DF6E7800A931D2 /* ABKCaptionedImageContentCardCell.h */; };
+		CB5EF92523DF6E7800A931D2 /* ABKContentCardsViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89823DF6E7800A931D2 /* ABKContentCardsViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF92623DF6E7800A931D2 /* ABKBaseContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89A23DF6E7800A931D2 /* ABKBaseContentCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF92723DF6E7800A931D2 /* ABKClassicContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89B23DF6E7800A931D2 /* ABKClassicContentCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF92823DF6E7800A931D2 /* ABKClassicImageContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89C23DF6E7800A931D2 /* ABKClassicImageContentCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF92923DF6E7800A931D2 /* ABKBannerContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89D23DF6E7800A931D2 /* ABKBannerContentCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF92A23DF6E7800A931D2 /* ABKCaptionedImageContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89E23DF6E7800A931D2 /* ABKCaptionedImageContentCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF92B23DF6E7800A931D2 /* ABKClassicImageContentCardCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF89F23DF6E7800A931D2 /* ABKClassicImageContentCardCell.m */; };
 		CB5EF92C23DF6E7800A931D2 /* ABKClassicContentCardCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF8A023DF6E7800A931D2 /* ABKClassicContentCardCell.m */; };
 		CB5EF92D23DF6E7800A931D2 /* ABKBaseContentCardCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF8A123DF6E7800A931D2 /* ABKBaseContentCardCell.m */; };
@@ -93,57 +93,57 @@
 		CB5EF92F23DF6E7800A931D2 /* ABKCaptionedImageContentCardCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF8A323DF6E7800A931D2 /* ABKCaptionedImageContentCardCell.m */; };
 		CB5EF93023DF6E7800A931D2 /* ABKContentCardsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF8A423DF6E7800A931D2 /* ABKContentCardsTableViewController.m */; };
 		CB5EF93123DF6E7800A931D2 /* ABKContentCardsWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF8A523DF6E7800A931D2 /* ABKContentCardsWebViewController.m */; };
-		CB5EF93223DF6E7800A931D2 /* ABKContentCardsTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8A623DF6E7800A931D2 /* ABKContentCardsTableViewController.h */; };
+		CB5EF93223DF6E7800A931D2 /* ABKContentCardsTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8A623DF6E7800A931D2 /* ABKContentCardsTableViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF93323DF6E7800A931D2 /* ABKContentCardsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF8A723DF6E7800A931D2 /* ABKContentCardsViewController.m */; };
-		CB5EF93423DF6E7800A931D2 /* ABKContentCardsWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8A823DF6E7800A931D2 /* ABKContentCardsWebViewController.h */; };
-		CB5EF93523DF6E7800A931D2 /* AppboyContentCards.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8A923DF6E7800A931D2 /* AppboyContentCards.h */; };
+		CB5EF93423DF6E7800A931D2 /* ABKContentCardsWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8A823DF6E7800A931D2 /* ABKContentCardsWebViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF93523DF6E7800A931D2 /* AppboyContentCards.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8A923DF6E7800A931D2 /* AppboyContentCards.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF93623DF6E7800A931D2 /* ABKModalWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF8AB23DF6E7800A931D2 /* ABKModalWebViewController.m */; };
 		CB5EF93723DF6E7800A931D2 /* ABKIdentifierForAdvertisingProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF8AC23DF6E7800A931D2 /* ABKIdentifierForAdvertisingProvider.m */; };
 		CB5EF93823DF6E7800A931D2 /* ABKLocationManagerProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF8AD23DF6E7800A931D2 /* ABKLocationManagerProvider.m */; };
 		CB5EF93923DF6E7800A931D2 /* ABKNoConnectionLocalization.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF8AE23DF6E7800A931D2 /* ABKNoConnectionLocalization.m */; };
-		CB5EF93A23DF6E7800A931D2 /* Appboy.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B123DF6E7800A931D2 /* Appboy.h */; };
-		CB5EF93B23DF6E7800A931D2 /* ABKInAppMessageDarkButtonTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B223DF6E7800A931D2 /* ABKInAppMessageDarkButtonTheme.h */; };
-		CB5EF93C23DF6E7800A931D2 /* ABKTextAnnouncementCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B323DF6E7800A931D2 /* ABKTextAnnouncementCard.h */; };
-		CB5EF93D23DF6E7800A931D2 /* ABKContentCardsController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B423DF6E7800A931D2 /* ABKContentCardsController.h */; };
+		CB5EF93A23DF6E7800A931D2 /* Appboy.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B123DF6E7800A931D2 /* Appboy.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF93B23DF6E7800A931D2 /* ABKInAppMessageDarkButtonTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B223DF6E7800A931D2 /* ABKInAppMessageDarkButtonTheme.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF93C23DF6E7800A931D2 /* ABKTextAnnouncementCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B323DF6E7800A931D2 /* ABKTextAnnouncementCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF93D23DF6E7800A931D2 /* ABKContentCardsController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B423DF6E7800A931D2 /* ABKContentCardsController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF93E23DF6E7800A931D2 /* ZipArchive_LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF8B523DF6E7800A931D2 /* ZipArchive_LICENSE.txt */; };
-		CB5EF93F23DF6E7800A931D2 /* ABKInAppMessageFull.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B623DF6E7800A931D2 /* ABKInAppMessageFull.h */; };
-		CB5EF94023DF6E7800A931D2 /* ABKClassicContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B723DF6E7800A931D2 /* ABKClassicContentCard.h */; };
-		CB5EF94123DF6E7800A931D2 /* ABKInAppMessageControllerDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B823DF6E7800A931D2 /* ABKInAppMessageControllerDelegate.h */; };
-		CB5EF94223DF6E7800A931D2 /* ABKClassicCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B923DF6E7800A931D2 /* ABKClassicCard.h */; };
-		CB5EF94323DF6E7800A931D2 /* ABKBannerContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BA23DF6E7800A931D2 /* ABKBannerContentCard.h */; };
-		CB5EF94423DF6E7800A931D2 /* ABKUser.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BB23DF6E7800A931D2 /* ABKUser.h */; };
-		CB5EF94523DF6E7800A931D2 /* ABKContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BC23DF6E7800A931D2 /* ABKContentCard.h */; };
-		CB5EF94623DF6E7800A931D2 /* ABKInAppMessageController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BD23DF6E7800A931D2 /* ABKInAppMessageController.h */; };
-		CB5EF94723DF6E7800A931D2 /* ABKInAppMessageButton.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BE23DF6E7800A931D2 /* ABKInAppMessageButton.h */; };
-		CB5EF94823DF6E7800A931D2 /* ABKInAppMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BF23DF6E7800A931D2 /* ABKInAppMessage.h */; };
-		CB5EF94923DF6E7800A931D2 /* ABKInAppMessageUIControlling.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C023DF6E7800A931D2 /* ABKInAppMessageUIControlling.h */; };
-		CB5EF94A23DF6E7800A931D2 /* ABKInAppMessageDarkTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C123DF6E7800A931D2 /* ABKInAppMessageDarkTheme.h */; };
-		CB5EF94B23DF6E7800A931D2 /* ABKSDWebImageProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C223DF6E7800A931D2 /* ABKSDWebImageProxy.h */; };
-		CB5EF94C23DF6E7800A931D2 /* ABKAttributionData.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C323DF6E7800A931D2 /* ABKAttributionData.h */; };
-		CB5EF94D23DF6E7800A931D2 /* ABKPushUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C423DF6E7800A931D2 /* ABKPushUtils.h */; };
-		CB5EF94E23DF6E7800A931D2 /* ABKLocationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C523DF6E7800A931D2 /* ABKLocationManager.h */; };
-		CB5EF94F23DF6E7800A931D2 /* ABKInAppMessageSlideup.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C623DF6E7800A931D2 /* ABKInAppMessageSlideup.h */; };
-		CB5EF95023DF6E7800A931D2 /* ABKIdentifierForAdvertisingProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C723DF6E7800A931D2 /* ABKIdentifierForAdvertisingProvider.h */; };
-		CB5EF95123DF6E7800A931D2 /* ABKInAppMessageImmersive.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C823DF6E7800A931D2 /* ABKInAppMessageImmersive.h */; };
-		CB5EF95223DF6E7800A931D2 /* ABKCaptionedImageCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C923DF6E7800A931D2 /* ABKCaptionedImageCard.h */; };
-		CB5EF95323DF6E7800A931D2 /* ABKCaptionedImageContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CA23DF6E7800A931D2 /* ABKCaptionedImageContentCard.h */; };
-		CB5EF95423DF6E7800A931D2 /* ABKFacebookUser.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CB23DF6E7800A931D2 /* ABKFacebookUser.h */; };
-		CB5EF95523DF6E7800A931D2 /* ABKInAppMessageHTMLJSBridge.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CC23DF6E7800A931D2 /* ABKInAppMessageHTMLJSBridge.h */; };
-		CB5EF95623DF6E7800A931D2 /* ABKModalWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CD23DF6E7800A931D2 /* ABKModalWebViewController.h */; };
-		CB5EF95723DF6E7800A931D2 /* ABKInAppMessageHTMLFull.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CE23DF6E7800A931D2 /* ABKInAppMessageHTMLFull.h */; };
-		CB5EF95823DF6E7800A931D2 /* ABKFeedController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CF23DF6E7800A931D2 /* ABKFeedController.h */; };
-		CB5EF95923DF6E7800A931D2 /* ABKLocationManagerProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D023DF6E7800A931D2 /* ABKLocationManagerProvider.h */; };
-		CB5EF95A23DF6E7800A931D2 /* ABKInAppMessageHTMLJSInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D123DF6E7800A931D2 /* ABKInAppMessageHTMLJSInterface.h */; };
-		CB5EF95B23DF6E7800A931D2 /* ABKURLDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D223DF6E7800A931D2 /* ABKURLDelegate.h */; };
-		CB5EF95C23DF6E7800A931D2 /* ABKIDFADelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D323DF6E7800A931D2 /* ABKIDFADelegate.h */; };
-		CB5EF95D23DF6E7800A931D2 /* ABKCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D423DF6E7800A931D2 /* ABKCard.h */; };
-		CB5EF95E23DF6E7800A931D2 /* AppboyKit.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D523DF6E7800A931D2 /* AppboyKit.h */; };
-		CB5EF95F23DF6E7800A931D2 /* ABKTwitterUser.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D623DF6E7800A931D2 /* ABKTwitterUser.h */; };
-		CB5EF96023DF6E7800A931D2 /* ABKInAppMessageControl.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D723DF6E7800A931D2 /* ABKInAppMessageControl.h */; };
-		CB5EF96123DF6E7800A931D2 /* ABKNoConnectionLocalization.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D823DF6E7800A931D2 /* ABKNoConnectionLocalization.h */; };
-		CB5EF96223DF6E7800A931D2 /* ABKInAppMessageModal.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D923DF6E7800A931D2 /* ABKInAppMessageModal.h */; };
-		CB5EF96323DF6E7800A931D2 /* ABKBannerCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8DA23DF6E7800A931D2 /* ABKBannerCard.h */; };
-		CB5EF96423DF6E7800A931D2 /* ABKInAppMessageHTML.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8DB23DF6E7800A931D2 /* ABKInAppMessageHTML.h */; };
+		CB5EF93F23DF6E7800A931D2 /* ABKInAppMessageFull.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B623DF6E7800A931D2 /* ABKInAppMessageFull.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94023DF6E7800A931D2 /* ABKClassicContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B723DF6E7800A931D2 /* ABKClassicContentCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94123DF6E7800A931D2 /* ABKInAppMessageControllerDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B823DF6E7800A931D2 /* ABKInAppMessageControllerDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94223DF6E7800A931D2 /* ABKClassicCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B923DF6E7800A931D2 /* ABKClassicCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94323DF6E7800A931D2 /* ABKBannerContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BA23DF6E7800A931D2 /* ABKBannerContentCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94423DF6E7800A931D2 /* ABKUser.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BB23DF6E7800A931D2 /* ABKUser.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94523DF6E7800A931D2 /* ABKContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BC23DF6E7800A931D2 /* ABKContentCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94623DF6E7800A931D2 /* ABKInAppMessageController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BD23DF6E7800A931D2 /* ABKInAppMessageController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94723DF6E7800A931D2 /* ABKInAppMessageButton.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BE23DF6E7800A931D2 /* ABKInAppMessageButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94823DF6E7800A931D2 /* ABKInAppMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BF23DF6E7800A931D2 /* ABKInAppMessage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94923DF6E7800A931D2 /* ABKInAppMessageUIControlling.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C023DF6E7800A931D2 /* ABKInAppMessageUIControlling.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94A23DF6E7800A931D2 /* ABKInAppMessageDarkTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C123DF6E7800A931D2 /* ABKInAppMessageDarkTheme.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94B23DF6E7800A931D2 /* ABKSDWebImageProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C223DF6E7800A931D2 /* ABKSDWebImageProxy.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94C23DF6E7800A931D2 /* ABKAttributionData.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C323DF6E7800A931D2 /* ABKAttributionData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94D23DF6E7800A931D2 /* ABKPushUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C423DF6E7800A931D2 /* ABKPushUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94E23DF6E7800A931D2 /* ABKLocationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C523DF6E7800A931D2 /* ABKLocationManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF94F23DF6E7800A931D2 /* ABKInAppMessageSlideup.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C623DF6E7800A931D2 /* ABKInAppMessageSlideup.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95023DF6E7800A931D2 /* ABKIdentifierForAdvertisingProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C723DF6E7800A931D2 /* ABKIdentifierForAdvertisingProvider.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95123DF6E7800A931D2 /* ABKInAppMessageImmersive.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C823DF6E7800A931D2 /* ABKInAppMessageImmersive.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95223DF6E7800A931D2 /* ABKCaptionedImageCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C923DF6E7800A931D2 /* ABKCaptionedImageCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95323DF6E7800A931D2 /* ABKCaptionedImageContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CA23DF6E7800A931D2 /* ABKCaptionedImageContentCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95423DF6E7800A931D2 /* ABKFacebookUser.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CB23DF6E7800A931D2 /* ABKFacebookUser.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95523DF6E7800A931D2 /* ABKInAppMessageHTMLJSBridge.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CC23DF6E7800A931D2 /* ABKInAppMessageHTMLJSBridge.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95623DF6E7800A931D2 /* ABKModalWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CD23DF6E7800A931D2 /* ABKModalWebViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95723DF6E7800A931D2 /* ABKInAppMessageHTMLFull.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CE23DF6E7800A931D2 /* ABKInAppMessageHTMLFull.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95823DF6E7800A931D2 /* ABKFeedController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CF23DF6E7800A931D2 /* ABKFeedController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95923DF6E7800A931D2 /* ABKLocationManagerProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D023DF6E7800A931D2 /* ABKLocationManagerProvider.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95A23DF6E7800A931D2 /* ABKInAppMessageHTMLJSInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D123DF6E7800A931D2 /* ABKInAppMessageHTMLJSInterface.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95B23DF6E7800A931D2 /* ABKURLDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D223DF6E7800A931D2 /* ABKURLDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95C23DF6E7800A931D2 /* ABKIDFADelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D323DF6E7800A931D2 /* ABKIDFADelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95D23DF6E7800A931D2 /* ABKCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D423DF6E7800A931D2 /* ABKCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95E23DF6E7800A931D2 /* AppboyKit.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D523DF6E7800A931D2 /* AppboyKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF95F23DF6E7800A931D2 /* ABKTwitterUser.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D623DF6E7800A931D2 /* ABKTwitterUser.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF96023DF6E7800A931D2 /* ABKInAppMessageControl.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D723DF6E7800A931D2 /* ABKInAppMessageControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF96123DF6E7800A931D2 /* ABKNoConnectionLocalization.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D823DF6E7800A931D2 /* ABKNoConnectionLocalization.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF96223DF6E7800A931D2 /* ABKInAppMessageModal.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D923DF6E7800A931D2 /* ABKInAppMessageModal.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF96323DF6E7800A931D2 /* ABKBannerCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8DA23DF6E7800A931D2 /* ABKBannerCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF96423DF6E7800A931D2 /* ABKInAppMessageHTML.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8DB23DF6E7800A931D2 /* ABKInAppMessageHTML.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF96523DF6E7800A931D2 /* libAppboyKitLibrary.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CB5EF8DC23DF6E7800A931D2 /* libAppboyKitLibrary.a */; };
 		CB5EF96623DF6E7800A931D2 /* Appboy.bundle in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF8DD23DF6E7800A931D2 /* Appboy.bundle */; };
 		CB5EF96723DF6E7800A931D2 /* ABKSDWebImageProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF8DE23DF6E7800A931D2 /* ABKSDWebImageProxy.m */; };
@@ -158,82 +158,82 @@
 		CB5EF97A23DF6FF000A931D2 /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB5EF97923DF6FF000A931D2 /* Accounts.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		CB5EF97C23DF6FF800A931D2 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB5EF97B23DF6FF800A931D2 /* AdSupport.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		CB5EF97E23DF700000A931D2 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB5EF97D23DF700000A931D2 /* StoreKit.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
-		CB5EF98423DF7C0200A931D2 /* AppboyInAppMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF84D23DF6E7800A931D2 /* AppboyInAppMessage.h */; };
-		CB5EF98523DF7C0200A931D2 /* ABKClassicImageContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89C23DF6E7800A931D2 /* ABKClassicImageContentCardCell.h */; };
-		CB5EF98623DF7C0200A931D2 /* ABKInAppMessageUIControlling.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C023DF6E7800A931D2 /* ABKInAppMessageUIControlling.h */; };
-		CB5EF98723DF7C0200A931D2 /* ABKInAppMessageModalViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85723DF6E7800A931D2 /* ABKInAppMessageModalViewController.h */; };
-		CB5EF98823DF7C0200A931D2 /* ABKCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D423DF6E7800A931D2 /* ABKCard.h */; };
-		CB5EF98923DF7C0200A931D2 /* ABKInAppMessageSlideupViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85E23DF6E7800A931D2 /* ABKInAppMessageSlideupViewController.h */; };
-		CB5EF98A23DF7C0200A931D2 /* ABKInAppMessageModal.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D923DF6E7800A931D2 /* ABKInAppMessageModal.h */; };
-		CB5EF98B23DF7C0200A931D2 /* ABKURLDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D223DF6E7800A931D2 /* ABKURLDelegate.h */; };
-		CB5EF98C23DF7C0200A931D2 /* ABKBaseContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89A23DF6E7800A931D2 /* ABKBaseContentCardCell.h */; };
-		CB5EF98D23DF7C0200A931D2 /* ABKFacebookUser.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CB23DF6E7800A931D2 /* ABKFacebookUser.h */; };
-		CB5EF98E23DF7C0200A931D2 /* ABKIDFADelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D323DF6E7800A931D2 /* ABKIDFADelegate.h */; };
-		CB5EF98F23DF7C0200A931D2 /* ABKTwitterUser.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D623DF6E7800A931D2 /* ABKTwitterUser.h */; };
-		CB5EF99023DF7C0200A931D2 /* ABKNFBaseCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83623DF6E7800A931D2 /* ABKNFBaseCardCell.h */; };
-		CB5EF99123DF7C0200A931D2 /* ABKInAppMessageHTMLJSInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D123DF6E7800A931D2 /* ABKInAppMessageHTMLJSInterface.h */; };
-		CB5EF99223DF7C0200A931D2 /* AppboyNewsFeed.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF82C23DF6E7800A931D2 /* AppboyNewsFeed.h */; };
-		CB5EF99323DF7C0200A931D2 /* ABKContentCardsTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8A623DF6E7800A931D2 /* ABKContentCardsTableViewController.h */; };
-		CB5EF99423DF7C0200A931D2 /* ABKCaptionedImageCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C923DF6E7800A931D2 /* ABKCaptionedImageCard.h */; };
-		CB5EF99523DF7C0200A931D2 /* ABKInAppMessageImmersiveViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85423DF6E7800A931D2 /* ABKInAppMessageImmersiveViewController.h */; };
-		CB5EF99623DF7C0200A931D2 /* ABKInAppMessageHTMLJSBridge.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CC23DF6E7800A931D2 /* ABKInAppMessageHTMLJSBridge.h */; };
-		CB5EF99723DF7C0200A931D2 /* ABKLocationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C523DF6E7800A931D2 /* ABKLocationManager.h */; };
-		CB5EF99823DF7C0200A931D2 /* ABKContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BC23DF6E7800A931D2 /* ABKContentCard.h */; };
-		CB5EF99923DF7C0200A931D2 /* ABKFeedController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CF23DF6E7800A931D2 /* ABKFeedController.h */; };
-		CB5EF99A23DF7C0200A931D2 /* ABKNFCaptionedMessageCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83123DF6E7800A931D2 /* ABKNFCaptionedMessageCardCell.h */; };
-		CB5EF99B23DF7C0200A931D2 /* ABKInAppMessageControllerDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B823DF6E7800A931D2 /* ABKInAppMessageControllerDelegate.h */; };
-		CB5EF99C23DF7C0200A931D2 /* ABKIdentifierForAdvertisingProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C723DF6E7800A931D2 /* ABKIdentifierForAdvertisingProvider.h */; };
-		CB5EF99D23DF7C0200A931D2 /* Appboy.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B123DF6E7800A931D2 /* Appboy.h */; };
-		CB5EF99E23DF7C0200A931D2 /* ABKNewsFeedViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83823DF6E7800A931D2 /* ABKNewsFeedViewController.h */; };
-		CB5EF99F23DF7C0200A931D2 /* ABKBannerCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8DA23DF6E7800A931D2 /* ABKBannerCard.h */; };
-		CB5EF9A023DF7C0200A931D2 /* ABKInAppMessageDarkButtonTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B223DF6E7800A931D2 /* ABKInAppMessageDarkButtonTheme.h */; };
-		CB5EF9A123DF7C0200A931D2 /* ABKTextAnnouncementCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B323DF6E7800A931D2 /* ABKTextAnnouncementCard.h */; };
-		CB5EF9A223DF7C0200A931D2 /* ABKNFBannerCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83023DF6E7800A931D2 /* ABKNFBannerCardCell.h */; };
-		CB5EF9A323DF7C0200A931D2 /* ABKSDWebImageProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C223DF6E7800A931D2 /* ABKSDWebImageProxy.h */; };
+		CB5EF98423DF7C0200A931D2 /* AppboyInAppMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF84D23DF6E7800A931D2 /* AppboyInAppMessage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF98523DF7C0200A931D2 /* ABKClassicImageContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89C23DF6E7800A931D2 /* ABKClassicImageContentCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF98623DF7C0200A931D2 /* ABKInAppMessageUIControlling.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C023DF6E7800A931D2 /* ABKInAppMessageUIControlling.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF98723DF7C0200A931D2 /* ABKInAppMessageModalViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85723DF6E7800A931D2 /* ABKInAppMessageModalViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF98823DF7C0200A931D2 /* ABKCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D423DF6E7800A931D2 /* ABKCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF98923DF7C0200A931D2 /* ABKInAppMessageSlideupViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85E23DF6E7800A931D2 /* ABKInAppMessageSlideupViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF98A23DF7C0200A931D2 /* ABKInAppMessageModal.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D923DF6E7800A931D2 /* ABKInAppMessageModal.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF98B23DF7C0200A931D2 /* ABKURLDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D223DF6E7800A931D2 /* ABKURLDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF98C23DF7C0200A931D2 /* ABKBaseContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89A23DF6E7800A931D2 /* ABKBaseContentCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF98D23DF7C0200A931D2 /* ABKFacebookUser.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CB23DF6E7800A931D2 /* ABKFacebookUser.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF98E23DF7C0200A931D2 /* ABKIDFADelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D323DF6E7800A931D2 /* ABKIDFADelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF98F23DF7C0200A931D2 /* ABKTwitterUser.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D623DF6E7800A931D2 /* ABKTwitterUser.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99023DF7C0200A931D2 /* ABKNFBaseCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83623DF6E7800A931D2 /* ABKNFBaseCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99123DF7C0200A931D2 /* ABKInAppMessageHTMLJSInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D123DF6E7800A931D2 /* ABKInAppMessageHTMLJSInterface.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99223DF7C0200A931D2 /* AppboyNewsFeed.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF82C23DF6E7800A931D2 /* AppboyNewsFeed.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99323DF7C0200A931D2 /* ABKContentCardsTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8A623DF6E7800A931D2 /* ABKContentCardsTableViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99423DF7C0200A931D2 /* ABKCaptionedImageCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C923DF6E7800A931D2 /* ABKCaptionedImageCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99523DF7C0200A931D2 /* ABKInAppMessageImmersiveViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85423DF6E7800A931D2 /* ABKInAppMessageImmersiveViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99623DF7C0200A931D2 /* ABKInAppMessageHTMLJSBridge.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CC23DF6E7800A931D2 /* ABKInAppMessageHTMLJSBridge.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99723DF7C0200A931D2 /* ABKLocationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C523DF6E7800A931D2 /* ABKLocationManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99823DF7C0200A931D2 /* ABKContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BC23DF6E7800A931D2 /* ABKContentCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99923DF7C0200A931D2 /* ABKFeedController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CF23DF6E7800A931D2 /* ABKFeedController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99A23DF7C0200A931D2 /* ABKNFCaptionedMessageCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83123DF6E7800A931D2 /* ABKNFCaptionedMessageCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99B23DF7C0200A931D2 /* ABKInAppMessageControllerDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B823DF6E7800A931D2 /* ABKInAppMessageControllerDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99C23DF7C0200A931D2 /* ABKIdentifierForAdvertisingProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C723DF6E7800A931D2 /* ABKIdentifierForAdvertisingProvider.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99D23DF7C0200A931D2 /* Appboy.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B123DF6E7800A931D2 /* Appboy.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99E23DF7C0200A931D2 /* ABKNewsFeedViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83823DF6E7800A931D2 /* ABKNewsFeedViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF99F23DF7C0200A931D2 /* ABKBannerCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8DA23DF6E7800A931D2 /* ABKBannerCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9A023DF7C0200A931D2 /* ABKInAppMessageDarkButtonTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B223DF6E7800A931D2 /* ABKInAppMessageDarkButtonTheme.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9A123DF7C0200A931D2 /* ABKTextAnnouncementCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B323DF6E7800A931D2 /* ABKTextAnnouncementCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9A223DF7C0200A931D2 /* ABKNFBannerCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83023DF6E7800A931D2 /* ABKNFBannerCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9A323DF7C0200A931D2 /* ABKSDWebImageProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C223DF6E7800A931D2 /* ABKSDWebImageProxy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF9A423DF7C0200A931D2 /* AppboyKitFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = CB2297D423DF6DBF00DB1261 /* AppboyKitFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CB5EF9A523DF7C0200A931D2 /* ABKInAppMessageHTMLViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85623DF6E7800A931D2 /* ABKInAppMessageHTMLViewController.h */; };
-		CB5EF9A623DF7C0200A931D2 /* ABKPushUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C423DF6E7800A931D2 /* ABKPushUtils.h */; };
-		CB5EF9A723DF7C0200A931D2 /* ABKInAppMessageUIDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86223DF6E7800A931D2 /* ABKInAppMessageUIDelegate.h */; };
-		CB5EF9A823DF7C0200A931D2 /* ABKInAppMessageControl.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D723DF6E7800A931D2 /* ABKInAppMessageControl.h */; };
-		CB5EF9A923DF7C0200A931D2 /* ABKInAppMessageController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BD23DF6E7800A931D2 /* ABKInAppMessageController.h */; };
-		CB5EF9AA23DF7C0200A931D2 /* ABKCaptionedImageContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89E23DF6E7800A931D2 /* ABKCaptionedImageContentCardCell.h */; };
-		CB5EF9AB23DF7C0200A931D2 /* ABKNewsFeedTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83A23DF6E7800A931D2 /* ABKNewsFeedTableViewController.h */; };
-		CB5EF9AC23DF7C0200A931D2 /* ABKClassicContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89B23DF6E7800A931D2 /* ABKClassicContentCardCell.h */; };
-		CB5EF9AD23DF7C0200A931D2 /* ABKInAppMessageFullViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85023DF6E7800A931D2 /* ABKInAppMessageFullViewController.h */; };
-		CB5EF9AE23DF7C0200A931D2 /* ABKModalWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CD23DF6E7800A931D2 /* ABKModalWebViewController.h */; };
-		CB5EF9AF23DF7C0200A931D2 /* AppboyContentCards.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8A923DF6E7800A931D2 /* AppboyContentCards.h */; };
-		CB5EF9B023DF7C0200A931D2 /* ABKInAppMessageFull.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B623DF6E7800A931D2 /* ABKInAppMessageFull.h */; };
-		CB5EF9B123DF7C0200A931D2 /* ABKBannerContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BA23DF6E7800A931D2 /* ABKBannerContentCard.h */; };
-		CB5EF9B223DF7C0200A931D2 /* ABKInAppMessageHTMLFullViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85323DF6E7800A931D2 /* ABKInAppMessageHTMLFullViewController.h */; };
-		CB5EF9B323DF7C0200A931D2 /* ABKClassicCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B923DF6E7800A931D2 /* ABKClassicCard.h */; };
-		CB5EF9B423DF7C0200A931D2 /* ABKInAppMessageImmersive.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C823DF6E7800A931D2 /* ABKInAppMessageImmersive.h */; };
-		CB5EF9B523DF7C0200A931D2 /* ABKInAppMessageSlideup.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C623DF6E7800A931D2 /* ABKInAppMessageSlideup.h */; };
-		CB5EF9B623DF7C0200A931D2 /* ABKUIUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86723DF6E7800A931D2 /* ABKUIUtils.h */; };
-		CB5EF9B723DF7C0200A931D2 /* ABKNFClassicCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83323DF6E7800A931D2 /* ABKNFClassicCardCell.h */; };
-		CB5EF9B823DF7C0200A931D2 /* ABKInAppMessageWindowController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85223DF6E7800A931D2 /* ABKInAppMessageWindowController.h */; };
-		CB5EF9B923DF7C0200A931D2 /* ABKInAppMessageUIButton.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86123DF6E7800A931D2 /* ABKInAppMessageUIButton.h */; };
-		CB5EF9BA23DF7C0200A931D2 /* ABKInAppMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BF23DF6E7800A931D2 /* ABKInAppMessage.h */; };
-		CB5EF9BB23DF7C0200A931D2 /* ABKUser.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BB23DF6E7800A931D2 /* ABKUser.h */; };
-		CB5EF9BC23DF7C0200A931D2 /* ABKInAppMessageUIController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86323DF6E7800A931D2 /* ABKInAppMessageUIController.h */; };
-		CB5EF9BD23DF7C0200A931D2 /* ABKInAppMessageWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85F23DF6E7800A931D2 /* ABKInAppMessageWindow.h */; };
-		CB5EF9BE23DF7C0200A931D2 /* ABKInAppMessageButton.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BE23DF6E7800A931D2 /* ABKInAppMessageButton.h */; };
-		CB5EF9BF23DF7C0200A931D2 /* ABKInAppMessageView.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86023DF6E7800A931D2 /* ABKInAppMessageView.h */; };
-		CB5EF9C023DF7C0200A931D2 /* ABKFeedWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83923DF6E7800A931D2 /* ABKFeedWebViewController.h */; };
-		CB5EF9C123DF7C0200A931D2 /* ABKUIURLUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86823DF6E7800A931D2 /* ABKUIURLUtils.h */; };
-		CB5EF9C223DF7C0200A931D2 /* ABKClassicContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B723DF6E7800A931D2 /* ABKClassicContentCard.h */; };
-		CB5EF9C323DF7C0200A931D2 /* ABKInAppMessageDarkTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C123DF6E7800A931D2 /* ABKInAppMessageDarkTheme.h */; };
-		CB5EF9C423DF7C0200A931D2 /* ABKLocationManagerProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D023DF6E7800A931D2 /* ABKLocationManagerProvider.h */; };
-		CB5EF9C523DF7C0200A931D2 /* ABKContentCardsViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89823DF6E7800A931D2 /* ABKContentCardsViewController.h */; };
-		CB5EF9C623DF7C0200A931D2 /* AppboyKit.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D523DF6E7800A931D2 /* AppboyKit.h */; };
-		CB5EF9C723DF7C0200A931D2 /* ABKAttributionData.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C323DF6E7800A931D2 /* ABKAttributionData.h */; };
-		CB5EF9C823DF7C0200A931D2 /* ABKContentCardsWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8A823DF6E7800A931D2 /* ABKContentCardsWebViewController.h */; };
-		CB5EF9C923DF7C0200A931D2 /* ABKNoConnectionLocalization.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D823DF6E7800A931D2 /* ABKNoConnectionLocalization.h */; };
-		CB5EF9CA23DF7C0200A931D2 /* ABKInAppMessageViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85923DF6E7800A931D2 /* ABKInAppMessageViewController.h */; };
-		CB5EF9CB23DF7C0200A931D2 /* ABKBannerContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89D23DF6E7800A931D2 /* ABKBannerContentCardCell.h */; };
-		CB5EF9CC23DF7C0200A931D2 /* ABKCaptionedImageContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CA23DF6E7800A931D2 /* ABKCaptionedImageContentCard.h */; };
-		CB5EF9CD23DF7C0200A931D2 /* ABKContentCardsController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B423DF6E7800A931D2 /* ABKContentCardsController.h */; };
-		CB5EF9CE23DF7C0200A931D2 /* ABKInAppMessageHTMLFull.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CE23DF6E7800A931D2 /* ABKInAppMessageHTMLFull.h */; };
-		CB5EF9CF23DF7C0200A931D2 /* ABKInAppMessageHTML.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8DB23DF6E7800A931D2 /* ABKInAppMessageHTML.h */; };
+		CB5EF9A523DF7C0200A931D2 /* ABKInAppMessageHTMLViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85623DF6E7800A931D2 /* ABKInAppMessageHTMLViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9A623DF7C0200A931D2 /* ABKPushUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C423DF6E7800A931D2 /* ABKPushUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9A723DF7C0200A931D2 /* ABKInAppMessageUIDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86223DF6E7800A931D2 /* ABKInAppMessageUIDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9A823DF7C0200A931D2 /* ABKInAppMessageControl.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D723DF6E7800A931D2 /* ABKInAppMessageControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9A923DF7C0200A931D2 /* ABKInAppMessageController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BD23DF6E7800A931D2 /* ABKInAppMessageController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9AA23DF7C0200A931D2 /* ABKCaptionedImageContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89E23DF6E7800A931D2 /* ABKCaptionedImageContentCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9AB23DF7C0200A931D2 /* ABKNewsFeedTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83A23DF6E7800A931D2 /* ABKNewsFeedTableViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9AC23DF7C0200A931D2 /* ABKClassicContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89B23DF6E7800A931D2 /* ABKClassicContentCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9AD23DF7C0200A931D2 /* ABKInAppMessageFullViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85023DF6E7800A931D2 /* ABKInAppMessageFullViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9AE23DF7C0200A931D2 /* ABKModalWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CD23DF6E7800A931D2 /* ABKModalWebViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9AF23DF7C0200A931D2 /* AppboyContentCards.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8A923DF6E7800A931D2 /* AppboyContentCards.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9B023DF7C0200A931D2 /* ABKInAppMessageFull.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B623DF6E7800A931D2 /* ABKInAppMessageFull.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9B123DF7C0200A931D2 /* ABKBannerContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BA23DF6E7800A931D2 /* ABKBannerContentCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9B223DF7C0200A931D2 /* ABKInAppMessageHTMLFullViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85323DF6E7800A931D2 /* ABKInAppMessageHTMLFullViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9B323DF7C0200A931D2 /* ABKClassicCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B923DF6E7800A931D2 /* ABKClassicCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9B423DF7C0200A931D2 /* ABKInAppMessageImmersive.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C823DF6E7800A931D2 /* ABKInAppMessageImmersive.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9B523DF7C0200A931D2 /* ABKInAppMessageSlideup.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C623DF6E7800A931D2 /* ABKInAppMessageSlideup.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9B623DF7C0200A931D2 /* ABKUIUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86723DF6E7800A931D2 /* ABKUIUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9B723DF7C0200A931D2 /* ABKNFClassicCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83323DF6E7800A931D2 /* ABKNFClassicCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9B823DF7C0200A931D2 /* ABKInAppMessageWindowController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85223DF6E7800A931D2 /* ABKInAppMessageWindowController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9B923DF7C0200A931D2 /* ABKInAppMessageUIButton.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86123DF6E7800A931D2 /* ABKInAppMessageUIButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9BA23DF7C0200A931D2 /* ABKInAppMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BF23DF6E7800A931D2 /* ABKInAppMessage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9BB23DF7C0200A931D2 /* ABKUser.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BB23DF6E7800A931D2 /* ABKUser.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9BC23DF7C0200A931D2 /* ABKInAppMessageUIController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86323DF6E7800A931D2 /* ABKInAppMessageUIController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9BD23DF7C0200A931D2 /* ABKInAppMessageWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85F23DF6E7800A931D2 /* ABKInAppMessageWindow.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9BE23DF7C0200A931D2 /* ABKInAppMessageButton.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8BE23DF6E7800A931D2 /* ABKInAppMessageButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9BF23DF7C0200A931D2 /* ABKInAppMessageView.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86023DF6E7800A931D2 /* ABKInAppMessageView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9C023DF7C0200A931D2 /* ABKFeedWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF83923DF6E7800A931D2 /* ABKFeedWebViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9C123DF7C0200A931D2 /* ABKUIURLUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF86823DF6E7800A931D2 /* ABKUIURLUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9C223DF7C0200A931D2 /* ABKClassicContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B723DF6E7800A931D2 /* ABKClassicContentCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9C323DF7C0200A931D2 /* ABKInAppMessageDarkTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C123DF6E7800A931D2 /* ABKInAppMessageDarkTheme.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9C423DF7C0200A931D2 /* ABKLocationManagerProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D023DF6E7800A931D2 /* ABKLocationManagerProvider.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9C523DF7C0200A931D2 /* ABKContentCardsViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89823DF6E7800A931D2 /* ABKContentCardsViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9C623DF7C0200A931D2 /* AppboyKit.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D523DF6E7800A931D2 /* AppboyKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9C723DF7C0200A931D2 /* ABKAttributionData.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8C323DF6E7800A931D2 /* ABKAttributionData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9C823DF7C0200A931D2 /* ABKContentCardsWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8A823DF6E7800A931D2 /* ABKContentCardsWebViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9C923DF7C0200A931D2 /* ABKNoConnectionLocalization.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8D823DF6E7800A931D2 /* ABKNoConnectionLocalization.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9CA23DF7C0200A931D2 /* ABKInAppMessageViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF85923DF6E7800A931D2 /* ABKInAppMessageViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9CB23DF7C0200A931D2 /* ABKBannerContentCardCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF89D23DF6E7800A931D2 /* ABKBannerContentCardCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9CC23DF7C0200A931D2 /* ABKCaptionedImageContentCard.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CA23DF6E7800A931D2 /* ABKCaptionedImageContentCard.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9CD23DF7C0200A931D2 /* ABKContentCardsController.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8B423DF6E7800A931D2 /* ABKContentCardsController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9CE23DF7C0200A931D2 /* ABKInAppMessageHTMLFull.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8CE23DF6E7800A931D2 /* ABKInAppMessageHTMLFull.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB5EF9CF23DF7C0200A931D2 /* ABKInAppMessageHTML.h in Headers */ = {isa = PBXBuildFile; fileRef = CB5EF8DB23DF6E7800A931D2 /* ABKInAppMessageHTML.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB5EF9D123DF7C0200A931D2 /* ABKCaptionedImageContentCardCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF8A323DF6E7800A931D2 /* ABKCaptionedImageContentCardCell.m */; };
 		CB5EF9D223DF7C0200A931D2 /* ABKSDWebImageProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF8DE23DF6E7800A931D2 /* ABKSDWebImageProxy.m */; };
 		CB5EF9D323DF7C0200A931D2 /* ABKFeedWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5EF83B23DF6E7800A931D2 /* ABKFeedWebViewController.m */; };
@@ -309,12 +309,10 @@
 		CB5EFA1B23DF7C0200A931D2 /* AppboyContentCardsLocalizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF86B23DF6E7800A931D2 /* AppboyContentCardsLocalizable.strings */; };
 		CB5EFA1C23DF7C0200A931D2 /* appboy_cc_noimage_lrg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF87E23DF6E7800A931D2 /* appboy_cc_noimage_lrg@2x.png */; };
 		CB5EFA1D23DF7C0200A931D2 /* ABKInAppMessageSlideupViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CB5EF84423DF6E7800A931D2 /* ABKInAppMessageSlideupViewController.xib */; };
-		CBD1FAC023E0DD530085CE58 /* AppboyKitFramework_iOS.h in Headers */ = {isa = PBXBuildFile; fileRef = CBD1FABF23E0DD530085CE58 /* AppboyKitFramework_iOS.h */; };
-		CBD1FAC223E0DD730085CE58 /* AppboyKitFramework_Sim.h in Headers */ = {isa = PBXBuildFile; fileRef = CBD1FAC123E0DD730085CE58 /* AppboyKitFramework_Sim.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CB2297D123DF6DBF00DB1261 /* AppboyKitFramework_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AppboyKitFramework_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB2297D123DF6DBF00DB1261 /* AppboyKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AppboyKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB2297D423DF6DBF00DB1261 /* AppboyKitFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppboyKitFramework.h; sourceTree = "<group>"; };
 		CB2297D523DF6DBF00DB1261 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB5EF80023DF6E7800A931D2 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/AppboyFeedLocalizable.strings; sourceTree = "<group>"; };
@@ -535,10 +533,8 @@
 		CB5EF97923DF6FF000A931D2 /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Accounts.framework; sourceTree = DEVELOPER_DIR; };
 		CB5EF97B23DF6FF800A931D2 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/AdSupport.framework; sourceTree = DEVELOPER_DIR; };
 		CB5EF97D23DF700000A931D2 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/StoreKit.framework; sourceTree = DEVELOPER_DIR; };
-		CB5EFA2123DF7C0200A931D2 /* AppboyKitFramework_Sim.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AppboyKitFramework_Sim.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB5EFA2123DF7C0200A931D2 /* AppboyKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AppboyKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB5EFA2223DF7C0300A931D2 /* AppboyKitFramework copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "AppboyKitFramework copy-Info.plist"; path = "/Users/dutchere1/Work/Appboy/appboy-ios-sdk/AppboyKitFramework copy-Info.plist"; sourceTree = "<absolute>"; };
-		CBD1FABF23E0DD530085CE58 /* AppboyKitFramework_iOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppboyKitFramework_iOS.h; sourceTree = "<group>"; };
-		CBD1FAC123E0DD730085CE58 /* AppboyKitFramework_Sim.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppboyKitFramework_Sim.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -600,8 +596,8 @@
 		CB2297D223DF6DBF00DB1261 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CB2297D123DF6DBF00DB1261 /* AppboyKitFramework_iOS.framework */,
-				CB5EFA2123DF7C0200A931D2 /* AppboyKitFramework_Sim.framework */,
+				CB2297D123DF6DBF00DB1261 /* AppboyKit.framework */,
+				CB5EFA2123DF7C0200A931D2 /* AppboyKit.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -613,8 +609,6 @@
 				CB5EF7FC23DF6E7800A931D2 /* AppboyUI */,
 				CB2297D423DF6DBF00DB1261 /* AppboyKitFramework.h */,
 				CB2297D523DF6DBF00DB1261 /* Info.plist */,
-				CBD1FABF23E0DD530085CE58 /* AppboyKitFramework_iOS.h */,
-				CBD1FAC123E0DD730085CE58 /* AppboyKitFramework_Sim.h */,
 			);
 			path = AppboyKitFramework;
 			sourceTree = "<group>";
@@ -931,7 +925,6 @@
 				CB5EF91423DF6E7800A931D2 /* ABKInAppMessageSlideupViewController.h in Headers */,
 				CB5EF96223DF6E7800A931D2 /* ABKInAppMessageModal.h in Headers */,
 				CB5EF95B23DF6E7800A931D2 /* ABKURLDelegate.h in Headers */,
-				CBD1FAC023E0DD530085CE58 /* AppboyKitFramework_iOS.h in Headers */,
 				CB5EF92623DF6E7800A931D2 /* ABKBaseContentCardCell.h in Headers */,
 				CB5EF95423DF6E7800A931D2 /* ABKFacebookUser.h in Headers */,
 				CB5EF95C23DF6E7800A931D2 /* ABKIDFADelegate.h in Headers */,
@@ -1021,7 +1014,6 @@
 				CB5EF98F23DF7C0200A931D2 /* ABKTwitterUser.h in Headers */,
 				CB5EF99023DF7C0200A931D2 /* ABKNFBaseCardCell.h in Headers */,
 				CB5EF99123DF7C0200A931D2 /* ABKInAppMessageHTMLJSInterface.h in Headers */,
-				CBD1FAC223E0DD730085CE58 /* AppboyKitFramework_Sim.h in Headers */,
 				CB5EF99223DF7C0200A931D2 /* AppboyNewsFeed.h in Headers */,
 				CB5EF99323DF7C0200A931D2 /* ABKContentCardsTableViewController.h in Headers */,
 				CB5EF99423DF7C0200A931D2 /* ABKCaptionedImageCard.h in Headers */,
@@ -1109,7 +1101,7 @@
 				CB5EF7FA23DF6E4600A931D2 /* SDWebImageMapKit */,
 			);
 			productName = AppboyKitFramework;
-			productReference = CB2297D123DF6DBF00DB1261 /* AppboyKitFramework_iOS.framework */;
+			productReference = CB2297D123DF6DBF00DB1261 /* AppboyKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		CB5EF97F23DF7C0200A931D2 /* AppboyKitFramework_Sim */ = {
@@ -1131,7 +1123,7 @@
 				CB5EF98223DF7C0200A931D2 /* SDWebImageMapKit */,
 			);
 			productName = AppboyKitFramework;
-			productReference = CB5EFA2123DF7C0200A931D2 /* AppboyKitFramework_Sim.framework */;
+			productReference = CB5EFA2123DF7C0200A931D2 /* AppboyKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -1507,6 +1499,8 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_MODULE_NAME = $PRODUCT_NAME;
+				PRODUCT_NAME = AppboyKit;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1564,6 +1558,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				PRODUCT_MODULE_NAME = $PRODUCT_NAME;
+				PRODUCT_NAME = AppboyKit;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
@@ -1596,7 +1592,7 @@
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.urbn.AppboyKit.AppboyKitFramework;
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_NAME = "$(inherited)";
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = iphoneos;
 				SUPPORTS_MACCATALYST = NO;
@@ -1628,7 +1624,7 @@
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.urbn.AppboyKit.AppboyKitFramework;
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_NAME = "$(inherited)";
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = iphoneos;
 				SUPPORTS_MACCATALYST = NO;
@@ -1660,7 +1656,6 @@
 				);
 				OTHER_LDFLAGS = "-objc";
 				PRODUCT_BUNDLE_IDENTIFIER = com.urbn.AppboyKit.AppboyKitFramework;
-				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = iphonesimulator;
 				SWIFT_VERSION = 5.0;
@@ -1691,7 +1686,6 @@
 				);
 				OTHER_LDFLAGS = "-objc";
 				PRODUCT_BUNDLE_IDENTIFIER = com.urbn.AppboyKit.AppboyKitFramework;
-				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = iphonesimulator;
 				SWIFT_VERSION = 5.0;

@@ -1,8 +1,8 @@
 //
-//  AppboyKitFramework_iOS.h
-//  AppboyKitFramework_iOS
+//  AppboyKitFramework.h
+//  AppboyKitFramework
 //
-//  Created by Evan Dutcher on 1/28/20.
+//  Created by Evan Dutcher on 1/27/20.
 //  Copyright © 2020 Evan Dutcher. All rights reserved.
 //
 
@@ -16,7 +16,7 @@ FOUNDATION_EXPORT const unsigned char AppboyKitFrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <AppboyKitFramework/PublicHeader.h>
 
-#import <AppboyKitFramework/"AppboyKit.h">
-#import <AppboyKitFramework/"AppboyNewsFeed.h">
-#import <AppboyKitFramework/"AppboyInAppMessage.h">
-#import <AppboyKitFramework/"AppboyContentCards.h">
+#import <AppboyKit/AppboyKit.h>
+#import <AppboyKit/AppboyNewsFeed.h>
+#import <AppboyKit/AppboyInAppMessage.h>
+#import <AppboyKit/AppboyContentCards.h>
