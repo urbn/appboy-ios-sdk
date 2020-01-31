@@ -6,11 +6,11 @@
 	<dict>
 		<key>ABKContentCardsStoryboard.storyboardc/ABKContentCardsTableViewController.nib</key>
 		<data>
-		kfaDP+8WA9KeuMOYFPUz1Cq5+yY=
+		5DRzdqfulN0e1IJ9KdcXiYvAHo0=
 		</data>
 		<key>ABKContentCardsStoryboard.storyboardc/ABKContentCardsViewController.nib</key>
 		<data>
-		5lDps5Hh3XKoashz6KMCqAWtf1E=
+		Fgn/fWzv2b3JGhDMpYjnbHIIeXc=
 		</data>
 		<key>ABKContentCardsStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -18,27 +18,27 @@
 		</data>
 		<key>ABKContentCardsStoryboard.storyboardc/pNw-1d-kzS-view-QfY-bo-EsO.nib</key>
 		<data>
-		TxkG/0QLrVun9tHHV9OAE0Z/QzE=
+		u6sqori7Tz6eUsPuBtHL+RegZdc=
 		</data>
 		<key>ABKInAppMessageFullViewController.nib</key>
 		<data>
-		CpVL5xN0OXXJxYQxHsgndCT7pYs=
+		a2qSWyMWijjM9ZnQk3y/5j9H/yc=
 		</data>
 		<key>ABKInAppMessageModalViewController.nib</key>
 		<data>
-		lgZp1dxpW0BukP9IlkuF0O6o8Bc=
+		SRj8xh0tF51zrMR3u4vRuLL+H30=
 		</data>
 		<key>ABKInAppMessageSlideupViewController.nib</key>
 		<data>
-		fPrsPcWELoqVkFlaQCidmURWJIY=
+		/FWYaWPIwcPgk0JdTTLh07RsLvg=
 		</data>
 		<key>ABKNewsFeedCardStoryboard.storyboardc/ABKNewsFeedTableViewController.nib</key>
 		<data>
-		MQm7EO8BHpRtOu+0KDN5mVRumjY=
+		LyZK53qfcxhsUbpgzfC2vrLkk+M=
 		</data>
 		<key>ABKNewsFeedCardStoryboard.storyboardc/ABKNewsFeedViewController.nib</key>
 		<data>
-		sXCY+X+GbzLNn770/aghBUO2zHg=
+		kkRT0yRfEMD8cxn4g7oEIB1/+CA=
 		</data>
 		<key>ABKNewsFeedCardStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>ABKNewsFeedCardStoryboard.storyboardc/pNw-1d-kzS-view-QfY-bo-EsO.nib</key>
 		<data>
-		tTp/2q5bm44VbdlFecsIFPkkojM=
+		dYnAns/2CUeVciHbgkAulsN0Jig=
 		</data>
 		<key>Appboy.bundle/Info.plist</key>
 		<data>
@@ -445,7 +445,7 @@
 		</data>
 		<key>Headers/ABKContentCardsViewController.h</key>
 		<data>
-		Z5VsMastyxIkUS/tM81ZXk40YLg=
+		kqInm4fPM+PZ5IQoduG5f5XtSYE=
 		</data>
 		<key>Headers/ABKContentCardsWebViewController.h</key>
 		<data>
@@ -561,7 +561,7 @@
 		</data>
 		<key>Headers/ABKInAppMessageUIController.h</key>
 		<data>
-		FW2QiIm1RiBTmmS0r6r8MpNKjx4=
+		bagDl3wf7VmY2Gptsb1S1oqptrs=
 		</data>
 		<key>Headers/ABKInAppMessageUIControlling.h</key>
 		<data>
@@ -621,7 +621,7 @@
 		</data>
 		<key>Headers/ABKNewsFeedViewController.h</key>
 		<data>
-		flm7raK2MeBnOEMLe6M578wXDBs=
+		+54gaCZlHcGVukLj/I91H6FwUfU=
 		</data>
 		<key>Headers/ABKNoConnectionLocalization.h</key>
 		<data>
@@ -673,7 +673,7 @@
 		</data>
 		<key>Headers/AppboyKit.h</key>
 		<data>
-		wuoOLP6o86VKMB6bTc5S9fd9KQA=
+		I6mXKX92X3PkcqvrsBzU0o/IB7I=
 		</data>
 		<key>Headers/AppboyKitFramework.h</key>
 		<data>
@@ -701,7 +701,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ydcIxVdpBp6C14Pcl9U5JiS7bpc=
+		ge6ieUod25O/D33hQqWGVsnlPQY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1400,14 +1400,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			61Ua0edESvke2Nf+0NGFsvi2VNZ+dCjJX3V9BDk3ofU=
+			67IfIZ2cAwcEtEpcuc/S9hwqXetCa/ovjLqwLzMlxm0=
 			</data>
 		</dict>
 		<key>ABKContentCardsStoryboard.storyboardc/ABKContentCardsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XsRIPs/hiJXbAnXf3VNChL1ANAiqT+T3UvTJIZJtvuo=
+			5+bUhoC/G3o2q25FeGYnhaEQQWge27QT1pfEBmMV9co=
 			</data>
 		</dict>
 		<key>ABKContentCardsStoryboard.storyboardc/Info.plist</key>
@@ -1421,42 +1421,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pm9UL0NWCzyYvVLycjAuIiWhFfEYmrH6GOjsZVK+x1k=
+			l1PUoRbU73xyZKvq6RmKmifgWXtCbqaIj9kenejMn+E=
 			</data>
 		</dict>
 		<key>ABKInAppMessageFullViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5yHts0gGfdLvXSpO16XPyCPnGSxwMOgcw5UbqkpQu9o=
+			HwEM2ZPQnM4IzUO1KOEAYBVetLSUVbbvaYsdf4PvbUM=
 			</data>
 		</dict>
 		<key>ABKInAppMessageModalViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TGCx/OS7S/K5lUV7xaamt/XaQqV3et3nOl4glvjcCjQ=
+			Ky8fF4rkSO0kfPOxMilWudvt6x8pjzkLhxE4ihM6sso=
 			</data>
 		</dict>
 		<key>ABKInAppMessageSlideupViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DSLn86ECbXQCI9LD6VJbr1fKG2Lq0aLh6D0ZnE4Y6fg=
+			49kExZHhEsei0B1UD3hniOCk7SemfhefW7X3gg4oovY=
 			</data>
 		</dict>
 		<key>ABKNewsFeedCardStoryboard.storyboardc/ABKNewsFeedTableViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aJTL4nlPvcu9jfFisySU7tw4PH9ftFOPIFCs+k7VFD8=
+			OHPd6fTeWRa9GqM3dM/mlrh/KkntX4tooLAK2AQdVeU=
 			</data>
 		</dict>
 		<key>ABKNewsFeedCardStoryboard.storyboardc/ABKNewsFeedViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9xpl7FpE2HIVnMNNMFrtEFQ7GRu2bcuQIaM9rbaZFA4=
+			l8RAKMomBqy/5nJC1VvwH5HdcaW5QeqmlIBEfqt2h20=
 			</data>
 		</dict>
 		<key>ABKNewsFeedCardStoryboard.storyboardc/Info.plist</key>
@@ -1470,7 +1470,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5l4hotRIAhVBHKpz1B0SY7fRAAhS0Ov/6oHWplrIhGk=
+			FCWZQrRIuIDJtmF6Zg2RPuwb03dK+tHPVvorB1xo6OE=
 			</data>
 		</dict>
 		<key>Appboy.bundle/Info.plist</key>
@@ -1932,7 +1932,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xuSshClY9I2xXtLK350gifvtviB99mheHjNYYCmCZrQ=
+			5RGAryAOq5ElBynUdGTegxDN3Q935Y+V94nzMOQfSoU=
 			</data>
 		</dict>
 		<key>Headers/ABKContentCardsWebViewController.h</key>
@@ -2135,7 +2135,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fs++ZBZOTUNDKc88X8JHIVJZJGuM1rsNaNsR3ZF66Mw=
+			VP178AWFSJmOtw73H87Du5fM2tU1F4z00C4M/z7LG94=
 			</data>
 		</dict>
 		<key>Headers/ABKInAppMessageUIControlling.h</key>
@@ -2240,7 +2240,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SZxEX1HynefLhcq/rZN/cCpsK5DaDpPhF1bFi1hrHDE=
+			eEhhXobMIHdaOxIRtN8viMCH3ocfvOxoXw7rKAY4EhM=
 			</data>
 		</dict>
 		<key>Headers/ABKNoConnectionLocalization.h</key>
@@ -2331,7 +2331,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1mHAFD2FVbcG8SuoxYc8JRbT5DtZGiUFMETgFVK+bGw=
+			NHKR8MuzYhBiZ9uC9EDywkL9bJ2VX3bpRtvqCsqdpb8=
 			</data>
 		</dict>
 		<key>Headers/AppboyKitFramework.h</key>

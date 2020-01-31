@@ -6,6 +6,7 @@
 #import "ABKInAppMessageModalViewController.h"
 #import "ABKInAppMessageHTMLFullViewController.h"
 #import "ABKInAppMessageFullViewController.h"
+#import "ABKInAppMessageUIDelegate.h"
 
 @implementation ABKInAppMessageUIController
 

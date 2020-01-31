@@ -1,7 +1,8 @@
 #import <UIKit/UIKit.h>
 #import "ABKInAppMessageUIControlling.h"
-#import "ABKInAppMessageUIDelegate.h"
-#import "ABKInAppMessageWindowController.h"
+
+@class ABKInAppMessageWindowController;
+@protocol ABKInAppMessageUIDelegate;
 
 @interface ABKInAppMessageUIController : NSObject <ABKInAppMessageUIControlling>
 

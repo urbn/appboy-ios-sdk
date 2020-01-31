@@ -1,6 +1,0 @@
-framework module AppboyKitFramework_Sim {
-  umbrella header "AppboyKitFramework_Sim.h"
-
-  export *
-  module * { export * }
-}

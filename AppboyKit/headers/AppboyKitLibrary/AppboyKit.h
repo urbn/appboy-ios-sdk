@@ -56,3 +56,8 @@
 #import "ABKURLDelegate.h"
 #import "ABKPushUtils.h"
 #endif
+
+// Appboy UI
+#import <AppboyKit/AppboyNewsFeed.h>
+#import <AppboyKit/AppboyInAppMessage.h>
+#import <AppboyKit/AppboyContentCards.h>

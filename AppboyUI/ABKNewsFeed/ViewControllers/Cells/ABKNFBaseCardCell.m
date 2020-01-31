@@ -4,6 +4,7 @@
 #import "ABKCaptionedImageCard.h"
 #import "ABKClassicCard.h"
 #import "ABKUIUtils.h"
+@import SDWebImage;
 
 static CGFloat AppboyCardSidePadding = 10.0;
 static CGFloat AppboyCardSpacing = 20.0;

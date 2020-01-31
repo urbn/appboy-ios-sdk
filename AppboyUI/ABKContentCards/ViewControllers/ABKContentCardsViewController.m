@@ -1,4 +1,5 @@
 #import "ABKContentCardsViewController.h"
+#import "ABKContentCardsTableViewController.h"
 
 @implementation ABKContentCardsViewController
 

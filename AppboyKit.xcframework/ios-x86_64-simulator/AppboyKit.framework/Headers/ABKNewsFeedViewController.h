@@ -1,5 +1,6 @@
 #import <UIKit/UIKit.h>
-#import "ABKNewsFeedTableViewController.h"
+
+@class ABKNewsFeedTableViewController;
 
 @interface ABKNewsFeedViewController : UINavigationController
 

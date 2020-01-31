@@ -1,5 +1,6 @@
 #import <UIKit/UIKit.h>
-#import "ABKContentCardsTableViewController.h"
+
+@class ABKContentCardsTableViewController;
 
 @interface ABKContentCardsViewController : UINavigationController
 
